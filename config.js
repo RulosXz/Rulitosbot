@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸
-["51904512139", '𝗘𝘀𝘁𝗲𝗳𝗮 🌸', true],
-["51983373108"]]
+["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗫𝗶𝗻𝗶𝘁𝗮 𝗕𝗼𝘁 🌸
+["5491130353033", '𝗫𝗶𝗻𝗶𝘁𝗮 🌸', true],
+["5491164708692"]]
 
 global.mods = []
 global.prems = []
@@ -112,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51904512139", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', 1]]
+["5491130353033", '𝗫𝗶𝗻𝗶𝘁𝗮 🌸', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,7 +121,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = "𝗧𝗼𝗺𝗮 𝗧𝘂 𝗦𝘁𝗶𝗰𝗸𝗲𝗿"
-global.author = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌸"
+global.author = "𝗫𝗶𝗻𝗶𝘁𝗮 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌸"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -129,35 +129,35 @@ global.author = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌸"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5"
-global.gt = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸"
+global.gt = "𝗫𝗶𝗻𝗶𝘁𝗮 𝗕𝗼𝘁 🌸"
 
-global.yt = "https://www.instagram.com/estefa_shop.dzn"
-global.yt2 = "https://www.instagram.com/estefa_shop.dzn"
-global.ig = "https://www.instagram.com/estefa_shop.dzn"
-global.md = "https://www.instagram.com/estefa_shop.dzn"
-global.fb = "https://www.instagram.com/estefa_shop.dzn"
-global.tk = "https://www.instagram.com/estefa_shop.dzn"
-global.ths = "https://www.instagram.com/estefa_shop.dzn"
+global.yt = "https://www.instagram.com/ff.antitoo"
+global.yt2 = "https://www.instagram.com/ff.antitoo"
+global.ig = "https://www.instagram.com/ff.antitoo"
+global.md = "https://www.instagram.com/ff.antitoo"
+global.fb = "https://www.instagram.com/ff.antitoo"
+global.tk = "https://www.instagram.com/ff.antitoo"
+global.ths = "https://www.instagram.com/ff.antitoo"
 global.paypal = 'https://wa.link/tpa35w'
 global.asistencia = 'https://wa.link/tpa35w' //Contacto
 global.bot = 'https://wa.link/tpa35w' //𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸
 
-global.nna = 'https://www.instagram.com/estefa_shop.dzn' // Cuentas
-global.nn2 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/estefa_shop.dzn' // Help
-global.nn = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 1
-global.nnn = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 2
-global.nnnt = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 3
-global.nnntt = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/estefa_shop.dzn' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/estefa_shop.dzn' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/estefa_shop.dzn'
-global.channel2 = 'https://www.instagram.com/estefa_shop.dzn'
+global.nna = 'https://www.instagram.com/ff.antitoo' // Cuentas
+global.nn2 = 'https://www.instagram.com/ff.antitoo' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/ff.antitoo' // Help
+global.nn = 'https://www.instagram.com/ff.antitoo' // Grupo 1
+global.nnn = 'https://www.instagram.com/ff.antitoo' // Grupo 2
+global.nnnt = 'https://www.instagram.com/ff.antitoo' // Grupo 3
+global.nnntt = 'https://www.instagram.com/ff.antitoo' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/ff.antitoo' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/ff.antitoo' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/ff.antitoo' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/ff.antitoo' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/ff.antitoo' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/ff.antitoo' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/ff.antitoo' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/ff.antitoo'
+global.channel2 = 'https://www.instagram.com/ff.antitoo'
 global.channel3 = 'https://chat.whatsapp.com/IKeeFD8PDaS7rkyG7a12g1'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -183,8 +183,8 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸"
-global.igfg = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸"
+global.wm = "𝗫𝗶𝗻𝗶𝘁𝗮 𝗕𝗼𝘁 🌸"
+global.igfg = "𝗫𝗶𝗻𝗶𝘁𝗮 𝗕𝗼𝘁 🌸"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
