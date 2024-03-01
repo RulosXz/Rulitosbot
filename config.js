@@ -13,8 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗣𝗶𝗻𝗴𝘂𝗶 𝗕𝗼𝘁 🐧
-["573112811966"]]
+["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸
+["51904512139", '𝗘𝘀𝘁𝗲𝗳𝗮 🌸', true],
+["51983373108"]]
 
 global.mods = []
 global.prems = []
@@ -111,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', 1]]
+["51904512139", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -120,7 +121,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = "𝗧𝗼𝗺𝗮 𝗧𝘂 𝗦𝘁𝗶𝗰𝗸𝗲𝗿"
-global.author = "𝗣𝗶𝗻𝗴𝘂𝗶 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🐧"
+global.author = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌸"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -128,36 +129,36 @@ global.author = "𝗣𝗶𝗻𝗴𝘂𝗶 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🐧"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5"
-global.gt = "🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧"
+global.gt = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸"
 
-global.yt = "https://www.instagram.com/cristoferrojasph"
-global.yt2 = "https://www.instagram.com/cristoferrojasph"
-global.ig = "https://www.instagram.com/cristoferrojasph"
-global.md = "https://www.instagram.com/cristoferrojasph"
-global.fb = "https://www.instagram.com/cristoferrojasph"
-global.tk = "https://www.instagram.com/cristoferrojasph"
-global.ths = "https://www.instagram.com/cristoferrojasph"
+global.yt = "https://www.instagram.com/estefa_shop.dzn"
+global.yt2 = "https://www.instagram.com/estefa_shop.dzn"
+global.ig = "https://www.instagram.com/estefa_shop.dzn"
+global.md = "https://www.instagram.com/estefa_shop.dzn"
+global.fb = "https://www.instagram.com/estefa_shop.dzn"
+global.tk = "https://www.instagram.com/estefa_shop.dzn"
+global.ths = "https://www.instagram.com/estefa_shop.dzn"
 global.paypal = 'https://wa.link/tpa35w'
 global.asistencia = 'https://wa.link/tpa35w' //Contacto
-global.bot = 'https://wa.link/tpa35w' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.bot = 'https://wa.link/tpa35w' //𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸
 
-global.nna = 'https://www.instagram.com/cristoferrojasph' // Cuentas
-global.nn2 = 'https://www.instagram.com/cristoferrojasph' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/cristoferrojasph' // Help
-global.nn = 'https://www.instagram.com/cristoferrojasph' // Grupo 1
-global.nnn = 'https://www.instagram.com/cristoferrojasph' // Grupo 2
-global.nnnt = 'https://www.instagram.com/cristoferrojasph' // Grupo 3
-global.nnntt = 'https://www.instagram.com/cristoferrojasph' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/cristoferrojasph' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/cristoferrojasph' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/cristoferrojasph' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/cristoferrojasph' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/cristoferrojasph' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/cristoferrojasph' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/cristoferrojasph' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/cristoferrojasph'
-global.channel2 = 'https://www.instagram.com/cristoferrojasph'
-global.channel3 = 'https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS'
+global.nna = 'https://www.instagram.com/estefa_shop.dzn' // Cuentas
+global.nn2 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/estefa_shop.dzn' // Help
+global.nn = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 1
+global.nnn = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 2
+global.nnnt = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 3
+global.nnntt = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/estefa_shop.dzn' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/estefa_shop.dzn' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/estefa_shop.dzn' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/estefa_shop.dzn'
+global.channel2 = 'https://www.instagram.com/estefa_shop.dzn'
+global.channel3 = 'https://chat.whatsapp.com/IKeeFD8PDaS7rkyG7a12g1'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
@@ -182,14 +183,14 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 : 𝗣𝗶𝗻𝗴𝘂𝗶 🐧"
-global.igfg = "🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧"
+global.wm = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸"
+global.igfg = "𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51936994155"
+global.nomorown = "51981983121"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
