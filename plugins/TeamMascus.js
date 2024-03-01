@@ -5,7 +5,7 @@ handler.command = /^(TeamMasc)$/i;
 export default handler;
 
 global.TeamMasc = `
-🌸 𝗘𝘀𝘁𝗲𝗳𝗮 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🌸
+🌸 𝗫𝗶𝗻𝗶𝘁𝗮 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🌸
 
 *🦍 Team Time Long*
 https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS
