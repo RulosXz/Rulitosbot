@@ -84,33 +84,33 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *🌸 Estefa Creadora 🌸* 〕
-*┃➤ Creador : Estefa 🌸*
+ ╭━〔 *🌸 Xinita Creadora 🌸* 〕
+*┃➤ Creador : Xinita 🌸*
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Usuarios :  ${rtotalreg}/${totalreg} 🌹*
  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Adquirir 🌸* 〕
+  ╭━〔 *🌸 Xinita Adquirir 🌸* 〕
  *┃➤* _${usedPrefix}Vendedores / Vendedores ofc_
  *┃➤* _${usedPrefix}Preciobot / Comprar El Bot_
- *┃➤* _${usedPrefix}Proveedor / Deseas Vender Estefa ?_
+ *┃➤* _${usedPrefix}Proveedor / Deseas Vender Xinita ?_
  *┃➤* _${usedPrefix}Publicidad / Publicidad Del Bot_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Info 🌸* 〕
+  ╭━〔 *🌸 Xinita Info 🌸* 〕
  *┃➤* _${usedPrefix}cafirexos_
  *┃➤* _${usedPrefix}gruposgb_
  *┃➤* _${usedPrefix}donar_
  *┃➤* _${usedPrefix}listagrupos_
  *┃➤* _${usedPrefix}estado_
- *┃➤* _${usedPrefix}infoEstefa_
+ *┃➤* _${usedPrefix}infoXinita_
  *┃➤* _${usedPrefix}instalarbot_
  *┃➤* _${usedPrefix}creador_
  *┃➤* _${usedPrefix}velocidad_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Free Fire 🌸* 〕
+  ╭━〔 *🌸 Xinita Free Fire 🌸* 〕
  *┃➤* _${usedPrefix}VsMixto_
  *┃➤* _${usedPrefix}VsFem_
  *┃➤* _${usedPrefix}VsMasc_
@@ -130,34 +130,34 @@ let menu =`
  *┃➤* _${usedPrefix}InfinitoFem_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Spamer 🌸* 〕
+  ╭━〔 *🌸 Xinita Spamer 🌸* 〕
  *┃➤* _${usedPrefix}SpamApk_
  *┃➤* _${usedPrefix}Comunidades_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Reclutamientos 🌸* 〕
+  ╭━〔 *🌸 Xinita Reclutamientos 🌸* 〕
  *┃➤* _${usedPrefix}TeamFem_
  *┃➤* _${usedPrefix}TeamMasc_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🌸 Estefa Edits 🌸* 〕
+   ╭━〔 *🌸 Xinita Edits 🌸* 〕
  *┃➤* _${usedPrefix}ApkEdit_
  *┃➤* _${usedPrefix}DriveEdits_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🌸 Estefa Tarjetas 🌸* 〕
+   ╭━〔 *🌸 Xinita Tarjetas 🌸* 〕
  *┃➤* _${usedPrefix}Cc2_
  *┃➤* _${usedPrefix}Tarjetas_
   ╰━━━━━━━━━━━━━
 
   
-  ╭━〔 *🌸 Estefa Premium 🌸* 〕
+  ╭━〔 *🌸 Xinita Premium 🌸* 〕
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Juegos 🌸* 〕
+  ╭━〔 *🌸 Xinita Juegos 🌸* 〕
  *┃➤* _${usedPrefix}mates | matemáticas | math_
  *┃➤* _${usedPrefix}lanzar *cara* | *cruz*_
  *┃➤* _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -203,12 +203,12 @@ let menu =`
  *┃➤* _${usedPrefix}suerte_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Ia 🌸* 〕
+  ╭━〔 *🌸 Xinita Ia 🌸* 〕
  *┃➤* _${usedPrefix}geminiimg *reaccione a una foto*_
  *┃➤* _${usedPrefix}gemini *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Ajustes Grupos 🌸* 〕
+  ╭━〔 *🌸 Xinita Ajustes Grupos 🌸* 〕
  *┃➤* _${usedPrefix}enable *o* disable *bienvenida | welcome*_
  *┃➤* _${usedPrefix}enable *o* disable *avisos | detect*_
  *┃➤* _${usedPrefix}enable *o* disable *autonivel | autolevelup*_
@@ -237,13 +237,13 @@ let menu =`
  *┃➤* _${usedPrefix}enable *o* disable *soloprivados | pconly*_
  *┃➤* _${usedPrefix}enable *o* disable *sologrupos | gconly*_  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Ajustes 🌸* 〕
+  ╭━〔 *🌸 Xinita Ajustes 🌸* 〕
  *┃➤* _${usedPrefix}configuracion_
  *┃➤* _${usedPrefix}settings_
  *┃➤* _${usedPrefix}vergrupo_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Descargas 🌸* 〕
+  ╭━〔 *🌸 Xinita Descargas 🌸* 〕
  *┃➤* _${usedPrefix}imagen | image *texto*_
  *┃➤* _${usedPrefix}pinterest | dlpinterest *texto*_
  *┃➤* _${usedPrefix}wallpaper|wp *texto*_
@@ -273,7 +273,7 @@ let menu =`
  *┃➤* _${usedPrefix}historia_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Anonimo 🌸* 〕
+  ╭━〔 *🌸 Xinita Anonimo 🌸* 〕
  *┃➤* _${usedPrefix}chatanonimo | anonimochat_
  *┃➤* _${usedPrefix}anonimoch_
  *┃➤* _${usedPrefix}start_
@@ -281,7 +281,7 @@ let menu =`
  *┃➤* _${usedPrefix}leave_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Cmd Grupos 🌸* 〕
+  ╭━〔 *🌸 Xinita Cmd Grupos 🌸* 〕
  *┃➤* _${usedPrefix}add *numero*_
  *┃➤* _${usedPrefix}sacar | ban | kick  *@tag*_
  *┃➤* _${usedPrefix}grupo *abrir o cerrar*_
@@ -316,7 +316,7 @@ let menu =`
  *┃➤* _${usedPrefix}disable_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Parejas 🌸* 〕
+  ╭━〔 *🌸 Xinita Parejas 🌸* 〕
  *┃➤* _${usedPrefix}listaparejas | listship_
  *┃➤* _${usedPrefix}mipareja | mylove_
  *┃➤* _${usedPrefix}pareja | couple *@tag*_
@@ -325,7 +325,7 @@ let menu =`
  *┃➤* _${usedPrefix}terminar | finish *@tag*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Votaciones 🌸* 〕
+  ╭━〔 *🌸 Xinita Votaciones 🌸* 〕
  *┃➤* _${usedPrefix}crearvoto | startvoto *texto*_
  *┃➤* _${usedPrefix}sivotar | upvote_
  *┃➤* _${usedPrefix}novotar | devote_
@@ -333,7 +333,7 @@ let menu =`
  *┃➤* _${usedPrefix}delvoto | deletevoto_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Convertidores 🌸* 〕
+  ╭━〔 *🌸 Xinita Convertidores 🌸* 〕
  *┃➤* _${usedPrefix}toimg | img | jpg *sticker*_
  *┃➤* _${usedPrefix}toanime | jadianime *foto*_
  *┃➤* _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
@@ -344,12 +344,12 @@ let menu =`
  *┃➤* _${usedPrefix}tts es *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Logos 🌸* 〕
+  ╭━〔 *🌸 Xinita Logos 🌸* 〕
  *┃➤* _${usedPrefix}logos *efecto texto*_
  *┃➤* _${usedPrefix}menulogos2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Efectos 🌸* 〕
+  ╭━〔 *🌸 Xinita Efectos 🌸* 〕
  *┃➤* _${usedPrefix}simpcard *@tag*_
  *┃➤* _${usedPrefix}hornycard *@tag*_
  *┃➤* _${usedPrefix}lolice *@tag*_
@@ -359,7 +359,7 @@ let menu =`
  *┃➤* _${usedPrefix}blur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Anime 🌸* 〕
+  ╭━〔 *🌸 Xinita Anime 🌸* 〕
  *┃➤* _${usedPrefix}chica_
  *┃➤* _${usedPrefix}chico_
  *┃➤* _${usedPrefix}cristianoronaldo_
@@ -412,7 +412,7 @@ let menu =`
  *┃➤* _${usedPrefix}cosplay_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Efectos A. 🌸* 〕
+  ╭━〔 *🌸 Xinita Efectos A. 🌸* 〕
  *┃➤* _${usedPrefix}bass_
  *┃➤* _${usedPrefix}blown_
  *┃➤* _${usedPrefix}deep_
@@ -427,7 +427,7 @@ let menu =`
  *┃➤* _${usedPrefix}tupai_
   ╰━━━━━━━━━━━━━
   	
-  ╭━〔 *🌸 Estefa Busqueda 🌸* 〕
+  ╭━〔 *🌸 Xinita Busqueda 🌸* 〕
  *┃➤* _${usedPrefix}animeinfo *texto*_
  *┃➤* _${usedPrefix}anuel_
  *┃➤* _${usedPrefix}conejo_
@@ -442,7 +442,7 @@ let menu =`
  *┃➤* _${usedPrefix}wiki | wikipedia *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Herramientas 🌸* 〕
+  ╭━〔 *🌸 Xinita Herramientas 🌸* 〕
  *┃➤* _${usedPrefix}afk *motivo*_
  *┃➤* _${usedPrefix}acortar *url*_
  *┃➤* _${usedPrefix}calc *operacion math*_
@@ -458,7 +458,7 @@ let menu =`
  *┃➤* _${usedPrefix}horario_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Rpg 🌸* 〕
+  ╭━〔 *🌸 Xinita Rpg 🌸* 〕
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
  *┃➤* _${usedPrefix}listapremium | listprem_
@@ -484,7 +484,7 @@ let menu =`
  *┃➤* _${usedPrefix}myns_
  *┃➤* _${usedPrefix}unreg *numero de serie*_
  *┃➤* _${usedPrefix}minardiamantes | minargemas_
- *┃➤* _${usedPrefix}minarEstefacoins | minarcoins_
+ *┃➤* _${usedPrefix}minarXinitacoins | minarcoins_
  *┃➤* _${usedPrefix}minarexperiencia | minarexp_
  *┃➤* _${usedPrefix}minar *:* minar2 *:* minar3_
  *┃➤* _${usedPrefix}rob | robar 
@@ -500,11 +500,11 @@ let menu =`
  *┃➤* _${usedPrefix}fylista_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 Estefa Tops 🌸* 〕
+  ╭━〔 *🌸 Xinita Tops 🌸* 〕
  *┃➤* _${usedPrefix}top_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Stickers 🌸* 〕
+  ╭━〔 *🌸 Xinita Stickers 🌸* 〕
  *┃➤* _${usedPrefix}sticker | s *imagen o video*_
  *┃➤* _${usedPrefix}sticker | s *url de tipo jpg*_
  *┃➤* _${usedPrefix}emojimix *😺+😆*_
@@ -524,12 +524,12 @@ let menu =`
  *┃➤* _${usedPrefix}cs *:* cs2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Stickers 2 🌸* 〕
+  ╭━〔 *🌸 Xinita Stickers 2 🌸* 〕
  *┃➤* _${usedPrefix}wm *packname|author*_
  *┃➤* _${usedPrefix}wm *texto1|texto2*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Stickers 3🌸* 〕
+  ╭━〔 *🌸 Xinita Stickers 3🌸* 〕
  *┃➤* _${usedPrefix}palmaditas | pat *@tag*_
  *┃➤* _${usedPrefix}bofetada | slap *@tag*_
  *┃➤* _${usedPrefix}golpear *@tag*_
@@ -537,12 +537,12 @@ let menu =`
  *┃➤* _${usedPrefix}alimentar | food *@tag*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 Estefa Owners 🌸* 〕
+  ╭━〔 *🌸 Xinita Owners 🌸* 〕
  *┃➤* _${usedPrefix}join *enlace*_
  *┃➤* _${usedPrefix}unete *enlace*_
  *┃➤* _${usedPrefix}dardiamantes *cantidad*_
  *┃➤* _${usedPrefix}darxp *cantidad*_
- *┃➤* _${usedPrefix}darEstefacoins *cantidad*_
+ *┃➤* _${usedPrefix}darXinitacoins *cantidad*_
  *┃➤* _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
  *┃➤* _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
  *┃➤* _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
@@ -556,7 +556,7 @@ let menu =`
  *┃➤* _${usedPrefix}comunicargrupos *texto*_
  *┃➤* _${usedPrefix}borrartmp | cleartmp_
  *┃➤* _${usedPrefix}delexp *@tag*_
- *┃➤* _${usedPrefix}delEstefacoins *@tag*_
+ *┃➤* _${usedPrefix}delXinitacoins *@tag*_
  *┃➤* _${usedPrefix}deldiamantes *@tag*_
  *┃➤* _${usedPrefix}reiniciar | restart_
  *┃➤* _${usedPrefix}actualizar | update_
@@ -565,10 +565,10 @@ let menu =`
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}añadirdiamantes *@tag cantidad*_
  *┃➤* _${usedPrefix}añadirxp *@tag cantidad*_
- *┃➤* _${usedPrefix}añadirestefacoins *@tag cantidad*_
+ *┃➤* _${usedPrefix}añadirXinitacoins *@tag cantidad*_
   ╰━━━━━━━━━━━━━
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '🌸 𝗘𝘀𝘁𝗲𝗳𝗮𝗕𝗼𝘁 𝗠𝗗 🌸', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '🌸 𝗫𝗶𝗻𝗶𝘁𝗮𝗕𝗼𝘁 𝗠𝗗 🌸', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
