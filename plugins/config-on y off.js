@@ -475,7 +475,7 @@ break;
       if (!/[01]/.test(command)) return await conn.sendMessage(m.chat, {text: optionsFull}, {quoted: m});
       throw false;
   }
-  conn.sendMessage(m.chat, {text: `🐧 𝗣𝗶𝗻𝗴𝘂𝗶 𝗕𝗼𝘁 🐧\n\n𝗔𝗻𝘂𝗻𝗰𝗶𝗮 𝗤𝘂𝗲 𝗟𝗮 𝗢𝗽𝗰𝗶𝗼𝗻 *${type}* 𝗙𝘂𝗲 ${isEnable ? '𝗔𝗰𝘁𝗶𝘃𝗮𝗱𝗼' : '𝗗𝗲𝘀𝗮𝗰𝘁𝗶𝘃𝗮𝗱𝗼'} 𝗖𝗼𝗻 𝗘𝘅𝗶𝘁𝗼 𝗣𝗮𝗿𝗮 𝗘𝗹 ${isAll ? '𝗕𝗼𝘁' : isUser ? '' : '𝗚𝗿𝘂𝗽𝗼'}`}, {quoted: m});
+  conn.sendMessage(m.chat, {text: `𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸\n\n𝗔𝗻𝘂𝗻𝗰𝗶𝗮 𝗤𝘂𝗲 𝗟𝗮 𝗢𝗽𝗰𝗶𝗼𝗻 *${type}* 𝗙𝘂𝗲 ${isEnable ? '𝗔𝗰𝘁𝗶𝘃𝗮𝗱𝗼' : '𝗗𝗲𝘀𝗮𝗰𝘁𝗶𝘃𝗮𝗱𝗼'} 𝗖𝗼𝗻 𝗘𝘅𝗶𝘁𝗼 𝗣𝗮𝗿𝗮 𝗘𝗹 ${isAll ? '𝗕𝗼𝘁' : isUser ? '' : '𝗚𝗿𝘂𝗽𝗼'}`}, {quoted: m});
   //conn.sendMessage(m.chat, {text: `▢ *Opción:* ${type}\n\n▢ *Estado:* ${isEnable ? 'Activado' : 'Desactivado'}\n\n▢ *Para* ${isAll ? 'este bot' : isUser ? '' : 'este chat'}`}, {quoted: m});
 };
 handler.command = /^((en|dis)able|(tru|fals)e|(turn)?[01])$/i;
