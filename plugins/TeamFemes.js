@@ -5,7 +5,7 @@ handler.command = /^(TeamFem)$/i;
 export default handler;
 
 global.TeamFem = `
-🐧𝗣𝗶𝗻𝗴𝘂𝗶 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🐧
+🌸 𝗘𝘀𝘁𝗲𝗳𝗮 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🌸
 
 *Time Long Fem 💋*
 https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS
