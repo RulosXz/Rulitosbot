@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗕𝗼𝘁 🌵
-["51973965511", '🌵 𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 🌵', true],
+["51981983121", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 𝗕𝗼𝘁 🌵
+["51973965511", '🌵 𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 🌵', true],
 ["51947311549"]]
 
 global.mods = []
@@ -112,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51973965511", '𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗕𝗼𝘁 🌵', 1]]
+["51973965511", '𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 𝗕𝗼𝘁 🌵', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,7 +121,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = "𝗧𝗼𝗺𝗮 𝗧𝘂 𝗦𝘁𝗶𝗰𝗸𝗲𝗿"
-global.author = "𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌵"
+global.author = "𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌵"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -129,7 +129,7 @@ global.author = "𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 �
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5"
-global.gt = "🌵 𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗕𝗼𝘁 🌵"
+global.gt = "🌵 𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 𝗕𝗼𝘁 🌵"
 
 global.yt = "https://www.instagram.com/antuu.xik"
 global.yt2 = "https://www.instagram.com/antuu.xik"
@@ -183,8 +183,8 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "🌵 𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗕𝗼𝘁 🌵"
-global.igfg = "🌵 𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶 𝗕𝗼𝘁 🌵"
+global.wm = "🌵 𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 𝗕𝗼𝘁 🌵"
+global.igfg = "🌵 𝗔𝗹𝗲𝘀𝘀𝗶𝘁𝗮 𝗕𝗼𝘁 🌵"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
