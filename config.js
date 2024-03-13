@@ -158,7 +158,7 @@ global.nnnttt5 = 'https://www.instagram.com/antuu.xik' // MULTI - BOTS
 global.nnnttt6 = 'https://www.instagram.com/antuu.xik' // A.T.M.M
 global.channel1 = 'https://www.instagram.com/antuu.xik'
 global.channel2 = 'https://www.instagram.com/antuu.xik'
-global.channel3 = 'https://chat.whatsapp.com/IKeeFD8PDaS7rkyG7a12g1'
+global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
